@@ -72,7 +72,7 @@ h1{
     HOVER TRANSLATE AND TRANSFORM EFFECT
 ------------------------------------------------*/
 .container .squares:nth-child(-n+4) :hover{
-    background-image: url("/icons.png");
+    background-image: url("/project/images/icons/icons.png");
     transform: scale(.5);
     animation-name: race;
     animation-duration: 2.5s;
