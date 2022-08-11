@@ -16,6 +16,18 @@ h1{
     border-radius: 5%;
 }
 
+.column {
+    float: left;
+    width: 33.33%;
+  }
+  
+  /* Clear floats after the columns */
+  .row:after {
+    content: "";
+    display: table;
+    clear: both;
+  }
+
 /*----------------------------------
     SELECT ALL SQUARES IN THE ARRAY
 ------------------------------------*/

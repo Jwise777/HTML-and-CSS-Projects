@@ -1,0 +1,26 @@
+body {
+    font-family: 'Gill Sans', 'Gill Sans MT', 'Trebuchet MS', sans-serif;
+    font-size: 15px;
+    margin: 0;
+    color: seagreen;
+    background-color: aquamarine;
+}
+
+.gallery {
+    position: relative;
+    line-height: 0;
+    margin-bottom: 3em;
+    overflow: hidden;
+    border-radius: 10px;
+    padding: 2px;
+    border: 1px solid darkblue;
+    background-color: aqua;
+}
+
+nav {
+    display: block;
+}
+
+.contact {
+    background-color: white;
+}
